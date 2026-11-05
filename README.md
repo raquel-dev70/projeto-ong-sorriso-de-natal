@@ -2,4 +2,4 @@
 
 Já montei tudo pelo site completo. Elas desenvolvem os códigos utilizando HTML, CSS e JavaScript.
 
-[Acesse o site do projeto aqui](//https://sorrisodenatal.netlify.app)
+[Acesse o site do projeto aqui](https://sorrisodenatal.netlify.app)
